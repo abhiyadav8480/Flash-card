@@ -1,0 +1,10 @@
+flashcard-app/
+ ├── backend/
+ │    ├── server.js
+ │    ├── models/Card.js
+ │    └── routes/cardRoutes.js
+ ├── frontend/
+ │    ├── index.html
+ │    ├── style.css
+ │    └── script.js
+ └── package.json
